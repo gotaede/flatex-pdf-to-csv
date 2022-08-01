@@ -2,6 +2,7 @@
 
 ## How to use it
 ### Installation
+    create folder named 'processed'
     pip install -r
 ## Configuration
 Add all ISIN numbers. You can add multible ISIN with | as separator.
