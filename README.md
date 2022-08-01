@@ -2,8 +2,13 @@
 
 ## How to use it
 ### Installation
-    create folder named 'processed'
-    pip install -r
+* Download find.py and requirements.txt to folder sparplan
+* Create subfolder processed
+* Download PDFs from flatex to folder sparplan
+* Install requirements.
+
+``` pip install -r requirements.txt ```
+
 ## Configuration
 Add all ISIN numbers. You can add multible ISIN with | as separator.
     
