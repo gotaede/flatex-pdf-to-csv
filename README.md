@@ -1,4 +1,6 @@
 # flatex-pdf-to-csv
+    
+The Script will parse all *.pdf files in the current folder, add the values to sparplan.csv and move the processed file to folder processed.
 
 ## How to use it
 ### Installation
@@ -17,5 +19,4 @@ Add all ISIN numbers. You can add multible ISIN with | as separator.
 ### Run the script
     python.exe find.py
     
-    
-The Script will parse all *.pdf files in the current folder, add the values to sparplan.csv and move the processed file to folder processed.
+
